@@ -1,6 +1,6 @@
 # Professional read-me generator
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-MIT-blue)]Find info (https://shields.io)
+  [![license](https://img.shields.io/badge/license-MIT-blue)]Find info at (https://shields.io) about all the many available Licenses.
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
