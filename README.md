@@ -1,4 +1,4 @@
-# Professional read-me generator
+# Professional read-me Generator
   ## Licensing:
   ![license](https://img.shields.io/badge/license-MIT-blue)
   Find info at (https://shields.io) about all the many available Licenses.
@@ -18,9 +18,9 @@
   ## License:
   MIT
   ## Contribution:
-  Please dont.
+  Please don't.
   ## Testing:
-  I will provide viedo of the working application.
+  I will provide vieo of the working application.
   ## Additional Info:
   - Github: [AlainaRosendahl](https://github.com/AlainaRosendahl)
   - Email: elenarosendahl16@gmail.com 
